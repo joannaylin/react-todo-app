@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+html, body {
+  font-family: "Quicksand",sans-serif;
+  background: linear-gradient(90deg, #f7cbd2, #90d5f5);
+  height: 100%;
+}
+
+body {
+  margin-top: 100px;
+}
